@@ -13,7 +13,12 @@
 ## Grammer
 
 - [2.1 Verbs](Grammer/2_1_verbs.md)
+- [2 1A Modal Verbs](Grammer/2_1a_modal_verbs.md)
 - [2.2 Articles Cases](Grammer/2_2_articles_cases.md)
 - [2.3 Adjectives](Grammer/2_3_adjectives.md)
 - [2.4 Numbers](Grammer/2_4_numbers.md)
 - [2.5 Telling Time](Grammer/2_5_telling_time.md)
+
+## Notes
+
+- [03 17](notes/03-17.md)
